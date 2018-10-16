@@ -1,5 +1,8 @@
 Line 1
+<<<<<<< HEAD
 Line 2
 Line 3
 Line 4
 Line 5
+=======
+>>>>>>> parent of 94c3fa3... adding Line 2 to file_of_lines
